@@ -1,4 +1,4 @@
-# PRODIGY_SD_04 Sudoku Solver
+# Sudoku Solver
 
 This Python application provides an interactive Sudoku Solver with a graphical user interface (GUI) using the Tkinter library. The solver employs a backtracking algorithm to solve Sudoku puzzles and includes features for generating new puzzles and providing real-time feedback.
 
